@@ -1,11 +1,5 @@
 # wearables
 Getting and Cleaning data week 4 assignment
-
-====================================================================================================================================
-Coursera Data Science Track
-Getting and Cleaning Data Week 4 Assignment
-Submitted by : Sindhu S Chandran
-====================================================================================================================================
 CONTENTS
 ----------
 The submission consists of the following:
