@@ -134,7 +134,7 @@ names(aggdata)[1:2] <- c("ActivityName","SubjectId")
 setwd("../")
 getwd()
 #write to file
-write.csv(aggdata, file = "tidy_data.txt", row.names = FALSE)
+write.table(aggdata, file = "tidy_data.txt", row.names = FALSE)
 
 
 
